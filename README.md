@@ -12,6 +12,16 @@ The following image shows the backend architecture of the SISVIR application:
 #### Api Gateway [sisvir-cloudgateway](https://github.com/carjizo/sisvir-cloudgateway "sisvir-cloudgateway")
 
 
-### - msvc-authentication
+### - msvc-auth
 
-### authentication and authorization microservice [msvc-authentication](https://github.com/carjizo/msvc-authentication "msvc-authentication")
+### Authentication and Authorization microservice [msvc-auth](https://github.com/carjizo/msvc-auth "msvc-auth")
+
+
+### - msvc-users
+
+### Users microservice [msvc-users](https://github.com/carjizo/msvc-users "msvc-users")
+
+
+### - msvc-devices
+
+### Devices microservice [msvc-devices](https://github.com/carjizo/msvc-devices "msvc-devices")
