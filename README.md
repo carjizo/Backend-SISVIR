@@ -1,27 +1,27 @@
 # Backend-SISVIR
 
-# Architecture
+## Architecture
 
 The following image shows the backend architecture of the SISVIR application:
 
-![](arquitectura%20sisvir.png)
+![](arquitectura_sisvir.png)
 
 
-# Microservices
+## Microservices
 
-### Api Gateway [sisvir-cloudgateway](https://github.com/carjizo/sisvir-cloudgateway "sisvir-cloudgateway")
+#### Api Gateway [sisvir-cloudgateway](https://github.com/carjizo/sisvir-cloudgateway "sisvir-cloudgateway")
 
-### Authentication and Authorization microservice [msvc-auth](https://github.com/carjizo/msvc-auth "msvc-auth")
-
-
-### Users microservice [msvc-users](https://github.com/carjizo/msvc-users "msvc-users")
+#### Authentication and Authorization microservice [msvc-auth](https://github.com/carjizo/msvc-auth "msvc-auth")
 
 
-### Devices microservice [msvc-devices](https://github.com/carjizo/msvc-devices "msvc-devices")
+#### Users microservice [msvc-users](https://github.com/carjizo/msvc-users "msvc-users")
 
 
-### Patient Vital Signs microservice [msvc-patientvitalsigns](https://github.com/carjizo/msvc-patientvitalsigns "msvc-patientvitalsigns")
+#### Devices microservice [msvc-devices](https://github.com/carjizo/msvc-devices "msvc-devices")
 
-# Clients
 
-### IoT-Applications [IoT-SISVIR](https://github.com/carjizo/IoT-SISVIR "IoT-SISVIR")
+#### Patient Vital Signs microservice [msvc-patientvitalsigns](https://github.com/carjizo/msvc-patientvitalsigns "msvc-patientvitalsigns")
+
+## Clients
+
+#### IoT-Applications [IoT-SISVIR](https://github.com/carjizo/IoT-SISVIR "IoT-SISVIR")
